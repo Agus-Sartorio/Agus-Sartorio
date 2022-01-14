@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hello there, I'm Agustin 👋
+My skills include:
+HTML CSS JavaScript TypeScript React Redux Node.js Express PostgreSQL Sass Tailwind CSS Next.js
 <!--
 **Agus-Sartorio/Agus-Sartorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
