@@ -12,4 +12,4 @@ Tengo 21 años, soy emprendedor y desarrollador web. Emprendí durante 3 años e
 ![Express](https://img.shields.io/badge/-Express-FAFAFA?style=for-the-badge&logo=express&logoColor=333)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=FAFAFA)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agus-Sartorio&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agus-Sartorio&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
