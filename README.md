@@ -11,6 +11,8 @@ Tengo 21 años, soy emprendedor y desarrollador web. Emprendí durante 3 años e
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=FAFAFA)
 ![Express](https://img.shields.io/badge/-Express-FAFAFA?style=for-the-badge&logo=express&logoColor=333)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=FAFAFA)
+
+(https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Agus-Sartorio/Agus-Sartorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
