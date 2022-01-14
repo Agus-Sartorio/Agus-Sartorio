@@ -1,5 +1,5 @@
-### Hello there, I'm Agustin 👋
-My skills include:
+### Hola! Bienvenido a mi GitHub, mi nombre es Agustin 👋
+### Entre mis habilidades como desarrollador se encuentran las siguientes herramientas:
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FAFAFA)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=FAFAFA)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333)
@@ -9,9 +9,6 @@ My skills include:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=FAFAFA)
 ![Express](https://img.shields.io/badge/-Express-FAFAFA?style=for-the-badge&logo=express&logoColor=333)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=FAFAFA)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=FAFAFA)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=FAFAFA)
-![Next.js](https://img.shields.io/badge/-Next.js-FAFAFA?style=for-the-badge&logo=next.js&logoColor=333)
 <!--
 **Agus-Sartorio/Agus-Sartorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
