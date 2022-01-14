@@ -1,5 +1,6 @@
 ### Hola! Bienvenido a mi GitHub, mi nombre es Agustin 👋
-### Entre mis habilidades como desarrollador se encuentran las siguientes herramientas:
+Emprendedor y desarrollador web. Mi primer acercamiento al emprendimiento fue hace 4 años cuando comencé con un negocio de marketing y comunicación donde aprendí muchísimo sobre liderazgo, trabajo en equipo, comunicación con los demás y sobre todo expandirme como persona. En mi búsqueda continua de mejora me encontré con que me gustaba el gimnasio, lugar donde también aprendí muy buenos valores como la disciplina, la constancia y buenos hábitos de alimentación, lo que también me llevó a querer nutrir mejor mi espíritu y seguir estudiando y fue ahí cuando me topé con ese mundo tan apasionante del desarrollo, donde todos los valores aprendidos años anteriores me complementan para ser un mejor programador. Además me apasiona mucho porque puedo fluir, crear, y dejar mi marca en cada trabajo.
+## Entre mis habilidades como desarrollador se encuentran las siguientes herramientas:
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FAFAFA)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=FAFAFA)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333)
