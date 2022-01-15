@@ -7,7 +7,7 @@ Tengo 21 años, soy emprendedor y desarrollador web. Emprendí durante 3 años e
   <code><img width="15%" max-height="100px" src="https://programacion.net/files/article/article_02169_.jpg"></code>
   <code><img width="15%" max-height="100px" src="https://disenowebakus.net/imagenes/articulos/html5.jpg"></code>
   <code><img width="15%" max-height="100px" src="https://blog.wildix.com/wp-content/uploads/2020/06/react-logo.jpg"></code>
-  <code><img width="15%" height="59.68px" src="https://i1.wp.com/blog.enriqueoriol.com/wp-content/uploads/2018/08/reduxLogo.png?w=1024"></code>
+  <code><img width="15%" height="65px" src="https://i1.wp.com/blog.enriqueoriol.com/wp-content/uploads/2018/08/reduxLogo.png?w=1024"></code>
   <code><img width="15%" max-height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png"></code>
   <br />
   <code><img width="15%" max-height="100px" src="https://training.techtalkthai.com/wp-content/uploads/2020/11/nodejs_logo_banner_01-600x314-1.png"></code>
