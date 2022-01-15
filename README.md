@@ -21,3 +21,7 @@ Tengo 21 años, soy emprendedor y desarrollador web. Emprendí durante 3 años e
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agus-Sartorio&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contact:
+
+[<img src="https://img.icons8.com/material/96/888888/email-sign.png"/>](mailto:sartorio85@gmail.com)[<img src="https://img.icons8.com/material/96/888888/linkedin--v1.png"/>](https://www.linkedin.com/in/agustin-sartorio)
