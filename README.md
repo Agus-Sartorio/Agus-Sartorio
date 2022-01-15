@@ -1,7 +1,7 @@
 ### Hola! Bienvenido a mi GitHub, mi nombre es Agustin 👋
 ### Un poco sobre mi👀
-Tengo 21 años, soy emprendedor y desarrollador web. Emprendí durante 3 años en la industria del marketing y comunicación a la vez que también aprendía sobre trading y otras cosas más. Durante esos años aprendi muchos valores tales como liderazgo, trabajo en equipo, comunicación efectiva, disciplina, a ser proactivo, constancia y muchos otros mas. Pero sobre todo aprendí a mejorar como persona, y en esa busqueda constante de mejora y de aprender cosas nuevas me topé con este mundo tan apasionante del desarrollo, donde todos esos valores aprendidos años anteriores me complementan para ser un mejor programador y dar lo mejor de mí en todo momento. Además es algo que me encanta porque puedo fluir, crear y dejar mi marca en cada trabajo.
-## Entre mis habilidades como desarrollador se encuentran las siguientes herramientas:
+Tengo 21 años, soy emprendedor y desarrollador web fullstack. Emprendí durante 3 años en la industria del marketing y comunicación a la vez que también aprendía sobre trading y otras cosas más. Durante esos años aprendi muchos valores tales como liderazgo, trabajo en equipo, comunicación efectiva, disciplina, a ser proactivo, constancia y muchos otros mas. Pero sobre todo aprendí a mejorar como persona, y en esa busqueda constante de mejora y de aprender cosas nuevas me topé con este mundo tan apasionante del desarrollo, donde todos esos valores aprendidos años anteriores me complementan para ser un mejor programador y dar lo mejor de mí en todo momento. Además es algo que me encanta porque puedo fluir, crear y dejar mi marca en cada trabajo.
+## Entre mis habilidades como desarrollador se encuentran las siguientes herramientas 💡
 <p>
   <code><img width="15%" max-height="100px" src="https://cobaltoconsulting.com/wp-content/uploads/2019/09/javascript-logo.png"></code>
   <code><img width="15%" max-height="100px" src="https://programacion.net/files/article/article_02169_.jpg"></code>
@@ -22,6 +22,6 @@ Tengo 21 años, soy emprendedor y desarrollador web. Emprendí durante 3 años e
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agus-Sartorio&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
-### Querés saber mas de mí? ¡Contactame!:
+### Querés saber mas de mí? ¡Contactame! 📧:
 
 [<img src="https://img.icons8.com/material/96/888888/email-sign.png"/>](mailto:sartorio85@gmail.com)[<img src="https://img.icons8.com/material/96/888888/linkedin--v1.png"/>](https://www.linkedin.com/in/agustin-sartorio)
